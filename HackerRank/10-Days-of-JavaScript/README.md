@@ -1,6 +1,9 @@
 # 10 Days of JavaScript
 
 ### Problems
+
+<p align="center">
+
 | # | Level | Title                                      |       Solved       |           Code            |
 |---:|-------|--------------------------------------------|:------------------:|:-------------------------:|
 | 1 | Easy  | [Day 0: Hello, World!](https://www.hackerrank.com/challenges/js10-hello-world/problem) | :white_check_mark: | [Solution](Day-0/Hello-World.js) |
@@ -28,3 +31,4 @@
 | 23 | Medium  | [Day 0: Hello, World!](https://www.hackerrank.com/challenges/js10-hello-world/problem) | :white_check_mark: | [Solution](/Day-0/Data-Type.js) |
 | 24 | Medium  | [Day 0: Hello, World!](https://www.hackerrank.com/challenges/js10-hello-world/problem) | :white_check_mark: | [Solution](/Day-0/Data-Type.js) |
 | 25 | Hard  | [Day 0: Hello, World!](https://www.hackerrank.com/challenges/js10-hello-world/problem) | :white_check_mark: | [Solution](/Day-0/Data-Type.js) |
+</p>
