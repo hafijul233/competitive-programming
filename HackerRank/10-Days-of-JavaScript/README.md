@@ -20,12 +20,11 @@
 | 12 | Easy   | [Day 4: Create a Rectangle Object](https://www.hackerrank.com/challenges/js10-objects/problem) | :white_check_mark: | [Solution](Day-4/Rectangle-Object.js) |
 | 13 | Easy   | [Day 4: Count Objects](https://www.hackerrank.com/challenges/js10-count-objects/problem) | :white_check_mark: | [Solution](Day-4/Count-Object.js) |
 | 14 | Easy   | [Day 4: Classes](https://www.hackerrank.com/challenges/js10-class/problem) | :white_check_mark: | [Solution](Day-4/Classes.js) |
-
 | 15 | Easy   | [Day 5: Inheritance](https://www.hackerrank.com/challenges/js10-inheritance/problem) | :white_check_mark: | [Solution](Day-5/Inheritance.js) |
 | 16 | Easy   | [Day 5: Template Literals](https://www.hackerrank.com/challenges/js10-template-literals/problem) | :white_check_mark: | [Solution](Day-5/Template-Literals.js) |
 | 17 | Easy   | [Day 5: Arrow Functions](https://www.hackerrank.com/challenges/js10-arrows/problem) | :white_check_mark: | [Solution](Day-5/Arrow-Function.js) |
-| 18 | Medium | [Day 6: Bitwise Operators](https://www.hackerrank.com/challenges/js10-bitwise/problem) | :white_check_mark: | [Solution](Day-0/Data-Type.js) |
-| 19 | Medium | [Day 6: JavaScript Dates](https://www.hackerrank.com/challenges/js10-date/problem) | :white_check_mark: | [Solution](Day-0/Data-Type.js) |
+| 18 | Medium | [Day 6: Bitwise Operators](https://www.hackerrank.com/challenges/js10-bitwise/problem) | :white_check_mark: | [Solution](Day-6/Bitwise-Operators.js) |
+| 19 | Medium | [Day 6: JavaScript Dates](https://www.hackerrank.com/challenges/js10-date/problem) | :white_check_mark: | [Solution](Day-6/JavaScript-Dates.js) |
 | 20 | Medium | [Day 7: Regular Expressions I](https://www.hackerrank.com/challenges/js10-regexp-1/problem) | :white_check_mark: | [Solution](Day-0/Data-Type.js) |
 | 21 | Medium | [Day 7: Regular Expressions II](https://www.hackerrank.com/challenges/js10-regexp-2/problem) | :white_check_mark: | [Solution](Day-0/Data-Type.js) |
 | 22 | Medium | [Day 7: Regular Expressions III](https://www.hackerrank.com/challenges/js10-regexp-3/problem) | :white_check_mark: | [Solution](Day-0/Data-Type.js) |
