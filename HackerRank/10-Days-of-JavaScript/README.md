@@ -25,11 +25,11 @@
 | 17 | Easy   | [Day 5: Arrow Functions](https://www.hackerrank.com/challenges/js10-arrows/problem) | :white_check_mark: | [Solution](Day-5/Arrow-Function.js) |
 | 18 | Medium | [Day 6: Bitwise Operators](https://www.hackerrank.com/challenges/js10-bitwise/problem) | :white_check_mark: | [Solution](Day-6/Bitwise-Operators.js) |
 | 19 | Medium | [Day 6: JavaScript Dates](https://www.hackerrank.com/challenges/js10-date/problem) | :white_check_mark: | [Solution](Day-6/JavaScript-Dates.js) |
-| 20 | Medium | [Day 7: Regular Expressions I](https://www.hackerrank.com/challenges/js10-regexp-1/problem) | :white_check_mark: | [Solution](Day-0/Data-Type.js) |
-| 21 | Medium | [Day 7: Regular Expressions II](https://www.hackerrank.com/challenges/js10-regexp-2/problem) | :white_check_mark: | [Solution](Day-0/Data-Type.js) |
-| 22 | Medium | [Day 7: Regular Expressions III](https://www.hackerrank.com/challenges/js10-regexp-3/problem) | :white_check_mark: | [Solution](Day-0/Data-Type.js) |
-| 23 | Medium | [Day 8: Create a Button](https://www.hackerrank.com/challenges/js10-create-a-button/problem) | :white_check_mark: | [Solution](Day-0/Data-Type.js) |
-| 24 | Medium | [Day 8: Buttons Container](https://www.hackerrank.com/challenges/js10-buttons-container/problem) | :white_check_mark: | [Solution](Day-0/Data-Type.js) |
-| 25 | Hard   | [Day 9: Binary Calculator](https://www.hackerrank.com/challenges/js10-binary-calculator/problem) | :white_check_mark: | [Solution](Day-0/Data-Type.js) |
+| 20 | Medium | [Day 7: Regular Expressions I](https://www.hackerrank.com/challenges/js10-regexp-1/problem) | :white_check_mark: | [Solution](Day-7/RegExp-I.js) |
+| 21 | Medium | [Day 7: Regular Expressions II](https://www.hackerrank.com/challenges/js10-regexp-2/problem) | :white_check_mark: | [Solution](Day-7/RegExp-II.js) |
+| 22 | Medium | [Day 7: Regular Expressions III](https://www.hackerrank.com/challenges/js10-regexp-3/problem) | :white_check_mark: | [Solution](Day-7/RegExp-III.js) |
+| 23 | Medium | [Day 8: Create a Button](https://www.hackerrank.com/challenges/js10-create-a-button/problem) | :white_check_mark: | [Solution](Day-8/Create-Button/index.html) |
+| 24 | Medium | [Day 8: Buttons Container](https://www.hackerrank.com/challenges/js10-buttons-container/problem) | :white_check_mark: | [Solution](Day-8/Button-Container/index.html) |
+| 25 | Hard   | [Day 9: Binary Calculator](https://www.hackerrank.com/challenges/js10-binary-calculator/problem) | :white_check_mark: | [Solution](Day-9/Binary-Calculator/index.html) |
 
 </p>
