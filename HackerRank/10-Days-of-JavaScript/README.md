@@ -3,7 +3,7 @@
 ### Problems
 | # | Level | Title                                      |       Solved       |           Code            |
 |---:|-------|--------------------------------------------|:------------------:|:-------------------------:|
-| 1 | Easy  | [Day 0: Hello, World!](https://www.hackerrank.com/challenges/js10-hello-world/problem) | :white_check_mark: | [Solution](/HackerRank/10-Days-of-JavaScript/Day-0/Hello-World.js) |
+| 1 | Easy  | [Day 0: Hello, World!](https://www.hackerrank.com/challenges/js10-hello-world/problem) | :white_check_mark: | [Solution](Day-0/Hello-World.js) |
 | 2 | Easy  | [Day 0: Hello, World!](https://www.hackerrank.com/challenges/js10-hello-world/problem) | :white_check_mark: | [Solution](Day-0/Data-Type.js) |
 | 3 | Easy  | [Day 0: Hello, World!](https://www.hackerrank.com/challenges/js10-hello-world/problem) | :white_check_mark: | [Solution](/Day-0/Data-Type.js) |
 | 4 | Easy  | [Day 0: Hello, World!](https://www.hackerrank.com/challenges/js10-hello-world/problem) | :white_check_mark: | [Solution](/Day-0/Data-Type.js) |
