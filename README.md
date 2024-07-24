@@ -2,7 +2,7 @@
 
 ## Online Judge
 1. [HackerRank](https://www.hackerrank.com/profile/hafijul233)
-   1. [10 Days of JavaScript](HackerRank/10-Days-of-JavaScript) 
+   1. [10 Days of JavaScript](HackerRank/10-Days-of-JavaScript#10-days-of-javascript) 
    2. [10 Days of Statistics](HackerRank/10-Days-of-Statistics)
    3. [30 Days of Code](HackerRank/30-Days-of-Code)
    4. [SQL](HackerRank/Sql)
