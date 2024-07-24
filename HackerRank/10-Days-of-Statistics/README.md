@@ -17,7 +17,6 @@
 | 15 | 🟢 Easy   | [Day 5: Inheritance](https://www.hackerrank.com/challenges/js10-inheritance/problem) | :white_check_mark: | [Solution](Day-5/Inheritance.js) |
 | 14 | 🟢 Easy   | [Day 4: Classes](https://www.hackerrank.com/challenges/js10-class/problem) | :white_check_mark: | [Solution](Day-4/Classes.js) |
 | 13 | 🟢 Easy   | [Day 4: Count Objects](https://www.hackerrank.com/challenges/js10-count-objects/problem) | :white_check_mark: | [Solution](Day-4/Count-Object.js) | -->
-
 | 12 | 🟢 Easy   | [Day 4: Binomial Distribution I](https://www.hackerrank.com/challenges/s10-binomial-distribution-1/problem) | :white_check_mark: | [Solution](Day-4/Rectangle-Object.js) |
 | 11 | 🟢 Easy   | [Day 3: Drawing Marbles](https://www.hackerrank.com/challenges/s10-mcq-6/problem) | :white_check_mark: | [Solution](Day-3/Throw.js) |
 | 10 | 🟢 Easy   | [Day 3: Cards of the Same Suit](https://www.hackerrank.com/challenges/s10-mcq-5/problem) | :white_check_mark: | [Solution](Day-3/Try-Catch-Finally.js) |
