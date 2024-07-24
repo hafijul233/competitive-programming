@@ -7,6 +7,7 @@
    3. [30 Days of Code](HackerRank/30-Days-of-Code/README.md#30-days-of-code)
    4. [SQL](HackerRank/Sql/README.md#sql)
    5. [Databases](HackerRank/Databases/README.md#databases)
+   6. [Linux Shell](HackerRank/Databases/README.md#linux-shell)
 <!-- 2. [LeetCode](https://leetcode.com/u/hafijul233)
    1. [10 Days of JavaScript](HackerRank/10-Days-of-JavaScript) 
    2. [10 Days of Statistics](HackerRank/10-Days-of-Statistics)
