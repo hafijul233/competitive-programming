@@ -1,4 +1,4 @@
-# Chapter 1 Quiz
+# Chapter 2 Quiz
 
 This quiz is a short assessment for you to help solidify the learning you just went through in this chapter.
 
