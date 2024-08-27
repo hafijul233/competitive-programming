@@ -13,7 +13,7 @@ In a single toss of ***2*** fair (evenly-weighted) six-sided dice, find the prob
 
 `5 / 6`
 
-## Explaination
+## Explanation
 
 There are total `6 * 6 = 36` outcomes.
 
